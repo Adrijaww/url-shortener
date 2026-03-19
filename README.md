@@ -1,36 +1,36 @@
 # 🔗 URL Shortener
 
-Turn long, ugly links into short, clean ones in seconds ⚡
+Turn long, messy links into short, clean ones in seconds ⚡
 
-👉 Example:
-http://127.0.0.1:5000/Peno8f
-
----
-
-## 💡 What it does
-
-Paste a long URL → get a short link → open it → boom, redirected 🎯
+🌐 **Live App:**
+https://url-shortener-r9vt.onrender.com
 
 ---
 
-## 🚀 Features
+##  What it does
 
-* ⚡ Instant URL shortening
-* 🔁 Seamless redirection
-* 🧠 Simple backend logic
-* 🪶 Lightweight & fast
+Paste a long URL → get a short link → open it → instant redirect 🎯
 
 ---
 
-## 🛠️ Built With
+##  Features
 
-* Python + Flask
+*  Fast URL shortening
+*  Smooth redirection
+*  Simple backend logic
+*  Lightweight & efficient
+
+---
+
+##  Built With
+
+* Python (Flask)
 * SQLite
-* Basic HTML
+* HTML
 
 ---
 
-## ▶️ Run Locally
+## ▶ Run Locally
 
 ```bash
 pip install flask
@@ -41,25 +41,26 @@ Open: http://127.0.0.1:5000
 
 ---
 
-## 📂 Structure
+##  Project Structure
 
 ```bash
-app.py
-templates/
-  └── index.html
+app.py  
+templates/  
+  └── index.html  
+requirements.txt  
 ```
 
 ---
 
-## 🔮 What’s Next
+##  Future Improvements
 
-* Custom short links (no more random codes )
-* Click tracking 📊
-* Better UI (make it look cuter)
+* Custom short URLs 👀
+* Click analytics 📊
+* Better UI/UX 🎨
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
-Adrija Chatterjee
-CSE Student building cool stuff 🚀
+**Adrija Chatterjee**
+CSE Student building real-world projects 🚀
